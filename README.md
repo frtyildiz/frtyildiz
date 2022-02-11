@@ -1,9 +1,11 @@
 # **👋 Hi there, I’m Fırat**
 - I’m interested in C#, Python, MySQL
 - I’m currently learning Java
-- Contact me frtyildiz@outlook.com.tr 
+- [Contact me](mailto:frtyildiz@outlook.com.tr) 
 
-<!---
-frtyildiz/frtyildiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frtyildiz&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+
+
+
+
