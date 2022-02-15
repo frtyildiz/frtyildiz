@@ -7,7 +7,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frtyildiz&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
 
 
-<h3 align="left">Now Playing:</h3>
 
 
 
