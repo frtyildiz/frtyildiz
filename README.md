@@ -9,5 +9,5 @@
 
 <h3 align="left">Now Playing:</h3>
 
-[![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/c361ec9826134ef382f508d3081f7250)
+
 
