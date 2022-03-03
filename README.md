@@ -1,7 +1,14 @@
 # **👋 Hi there, I’m Fırat**
 - I’m interested in C#, Python, MySQL
 - I’m currently learning Java
-- [Contact me](mailto:frtyildiz@outlook.com.tr) 
+
+## Contact Me! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+
+
+
+<a href = 'https://www.linkedin.com/in/frtyldz/'><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
+<a href = 'mailto:frtyildiz@outlook.com.tr'><img src="https://img.icons8.com/doodle/48/000000/ms-outlook.png"/>
+  
 
 ## My GitHub Stats :chart_with_upwards_trend:
 <details>
