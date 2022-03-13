@@ -8,6 +8,7 @@
 
 <a href = 'https://www.linkedin.com/in/frtyldz/'><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
 <a href = 'mailto:frtyildiz@outlook.com.tr'><img src="https://img.icons8.com/doodle/48/000000/ms-outlook.png"/>
+<a href = 'https://open.spotify.com/user/ksatriadecayeux'><img src="https://img.icons8.com/doodle/48/000000/spotify-for-artists.png"/>
   
 
 ## My GitHub Stats :chart_with_upwards_trend:
