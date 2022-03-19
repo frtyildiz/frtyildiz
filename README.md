@@ -14,7 +14,7 @@
   
   
 
-## My GitHub Stats :chart_with_upwards_trend:
+## My GitHub Stats 
 <details>
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=frtyildiz&theme=tokyonight">
