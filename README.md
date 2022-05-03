@@ -1,5 +1,5 @@
 # **👋 Hi there, I’m Fırat**
-- I’m interested in C#
+
 - I’m currently learning Java and SQL
 
 ## Contact Me! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
